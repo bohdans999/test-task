@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "vehicle": "Lamborghini Malibu",
+        "model": "Taurus",
+        "color": "grey"
+    },
+    {
+        "id": 2,
+        "vehicle": "Porsche 911",
+        "model": "Altima",
+        "color": "yellow"
+    },
+    {
+        "id": 3,
+        "vehicle": "Ford Expedition",
+        "model": "A8",
+        "color": "indigo"
+    },
+    {
+        "id": 4,
+        "vehicle": "Bentley Element",
+        "model": "Ranchero",
+        "color": "green"
+    },
+    {
+        "id": 5,
+        "vehicle": "Tesla Prius",
+        "model": "Roadster",
+        "color": "black"
+    },
+    {
+        "id": 6,
+        "vehicle": "Ford Beetle",
+        "model": "Focus",
+        "color": "orange"
+    },
+    {
+        "id": 7,
+        "vehicle": "Ferrari Model X",
+        "model": "V90",
+        "color": "violet"
+    },
+    {
+        "id": 8,
+        "vehicle": "Chevrolet Fortwo",
+        "model": "Mustang",
+        "color": "blue"
+    },
+    {
+        "id": 9,
+        "vehicle": "Volkswagen Escalade",
+        "model": "Wrangler",
+        "color": "lime"
+    },
+    {
+        "id": 10,
+        "vehicle": "Toyota XC90",
+        "model": "XC90",
+        "color": "plum"
+    },
+    {
+        "id": 11,
+        "vehicle": "Chevrolet Sentra",
+        "model": "Malibu",
+        "color": "pink"
+    },
+    {
+        "id": 12,
+        "vehicle": "Porsche Model X",
+        "model": "CTS",
+        "color": "skyblue"
+    },
+    {
+        "id": 13,
+        "vehicle": "Nissan Grand Caravan",
+        "model": "Wrangler",
+        "color": "gold"
+    },
+    {
+        "id": 14,
+        "vehicle": "Volkswagen Aventador",
+        "model": "Countach",
+        "color": "lavender"
+    },
+    {
+        "id": 15,
+        "vehicle": "Mazda Countach",
+        "model": "Fortwo",
+        "color": "tan"
+    },
+    {
+        "id": 16,
+        "vehicle": "Tesla Sentra",
+        "model": "Model 3",
+        "color": "orchid"
+    },
+    {
+        "id": 17,
+        "vehicle": "BMW Grand Cherokee",
+        "model": "Charger",
+        "color": "indigo"
+    },
+    {
+        "id": 18,
+        "vehicle": "Jaguar A4",
+        "model": "Challenger",
+        "color": "maroon"
+    },
+    {
+        "id": 19,
+        "vehicle": "Hyundai CTS",
+        "model": "Malibu",
+        "color": "plum"
+    },
+    {
+        "id": 20,
+        "vehicle": "Ford Model Y",
+        "model": "F-150",
+        "color": "silver"
+    },
+    {
+        "id": 21,
+        "vehicle": "Bentley Corvette",
+        "model": "PT Cruiser",
+        "color": "orange"
+    },
+    {
+        "id": 22,
+        "vehicle": "Ford Durango",
+        "model": "V90",
+        "color": "purple"
+    },
+    {
+        "id": 23,
+        "vehicle": "Ferrari Camry",
+        "model": "Roadster",
+        "color": "pink"
+    },
+    {
+        "id": 24,
+        "vehicle": "Lamborghini Taurus",
+        "model": "Camaro",
+        "color": "tan"
+    },
+    {
+        "id": 25,
+        "vehicle": "Jaguar F-150",
+        "model": "Impala",
+        "color": "cyan"
+    },
+    {
+        "id": 26,
+        "vehicle": "Bentley PT Cruiser",
+        "model": "Durango",
+        "color": "gold"
+    },
+    {
+        "id": 27,
+        "vehicle": "Land Rover Impala",
+        "model": "Alpine",
+        "color": "green"
+    },
+    {
+        "id": 28,
+        "vehicle": "Volvo Fortwo",
+        "model": "911",
+        "color": "lime"
+    },
+    {
+        "id": 29,
+        "vehicle": "BMW Colorado",
+        "model": "Beetle",
+        "color": "plum"
+    },
+    {
+        "id": 30,
+        "vehicle": "Polestar Corvette",
+        "model": "Prius",
+        "color": "gold"
+    }
+]
